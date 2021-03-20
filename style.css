@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right top, #0a6f3a, #007468, #00759e, #015ca7, #053c95);
+    background-size: contain;
+    height: 100vh;
+}
+
+.navLink{
+    margin-left: auto;
+}
+.main-login-area{
+    margin: 2px solid white;
+    height: 500px;
+}
+
+.box-style-tp:hover{
+    box-shadow: 2px 10px 50px 5px rgb(53, 243, 243);
+    background: #000000; 
+	transform: scale(1,1) rotate(360deg)skew(0,0) translate(0,0); 
+	-webkit-transform: scale(1,1) rotate(360deg)skew(0,0) translate(0,0); 
+	-moz-transform: scale(1,1) rotate(360deg)skew(0,0) translate(0,0); 
+	transform-origin: 45% 50%;
+}
